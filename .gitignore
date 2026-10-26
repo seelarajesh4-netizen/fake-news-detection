@@ -8,7 +8,6 @@ env/
 ENV/
 
 # Generated model and reports
-models/*.joblib
 reports/*.png
 reports/*.txt
 reports/*.json
