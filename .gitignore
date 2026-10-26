@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+ENV/
+
+# Generated model and reports
+models/*.joblib
+reports/*.png
+reports/*.txt
+reports/*.json
+
+# Dataset files may be large and have separate licensing terms
+dataset/*.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
